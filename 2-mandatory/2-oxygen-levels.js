@@ -11,7 +11,12 @@
     Some string methods that might help you here are .replace() and .substring(). 
 */
 
-function findSafeOxygenLevel() {}
+function findSafeOxygenLevel(arr) {
+
+ let safePlanet=level >"19.6" &&level <"23.5" ; 
+ return safePlanet;
+
+}
 
 /* ======= TESTS - DO NOT MODIFY ===== */
 
